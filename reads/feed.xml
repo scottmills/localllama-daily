@@ -7,7 +7,7 @@
   <description>Articles, blog posts and documentation that Scott wants to read, turned into standalone audio episodes. Each episode is an AI-narrated summary of one source: what it is, its core ideas, key details and practical takeaways. Links to the originals are in the show notes.</description>
   <itunes:summary>Articles, blog posts and documentation that Scott wants to read, turned into standalone audio episodes. Each episode is an AI-narrated summary of one source: what it is, its core ideas, key details and practical takeaways. Links to the originals are in the show notes.</itunes:summary>
   <language>en-us</language>
-  <lastBuildDate>Thu, 22 Oct 2026 08:26:33 -0500</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 09:18:43 -0600</lastBuildDate>
   <itunes:author>Scott Mills</itunes:author>
   <itunes:owner><itunes:name>Scott Mills</itunes:name></itunes:owner>
   <itunes:image href="https://scottmills.github.io/localllama-daily/reads/cover.jpg"/>
@@ -16,6 +16,20 @@
   <itunes:category text="Education"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Understanding email encryption — Fastmail</title>
+    <link>https://www.fastmail.com/blog/email-encryption/</link>
+    <description><![CDATA[<ul><li><strong>Source:</strong> <a href="https://www.fastmail.com/blog/email-encryption/">https://www.fastmail.com/blog/email-encryption/</a></li><li><strong>Author:</strong> Neil Jenkins</li><li><strong>Site:</strong> Fastmail</li><li><strong>Originally published:</strong> 2025-12-17</li><li><strong>Date added:</strong> 2026-11-01</li></ul><h3>Summary</h3><p>Fastmail&#x27;s Neil Jenkins walks through the different layers of email encryption and what each actually protects against. TLS secures your connection to your provider, while server-to-server delivery relies on opportunistic TLS, which MTA-STS and DANE try to harden; Fastmail, like Google and Yahoo, prefers MTA-STS because DNSSEC failures can cause serious outages. Encryption at rest protects against physical theft but not court orders or full server compromise. Zero-access encryption (Proton, Tuta) limits insider access but leaves metadata exposed and costs search, standard clients, and password recovery, and true end-to-end encryption via S/MIME or PGP remains impractical for most people. The post&#x27;s advice: for truly sensitive communication use Signal, and for everyday email, transport plus at-rest encryption is a sensible balance.</p><p><em>Scott&#x27;s Reads: an AI-narrated summary of the source above. Listen to the episode, then read the original.</em></p>]]></description>
+    <content:encoded><![CDATA[<ul><li><strong>Source:</strong> <a href="https://www.fastmail.com/blog/email-encryption/">https://www.fastmail.com/blog/email-encryption/</a></li><li><strong>Author:</strong> Neil Jenkins</li><li><strong>Site:</strong> Fastmail</li><li><strong>Originally published:</strong> 2025-12-17</li><li><strong>Date added:</strong> 2026-11-01</li></ul><h3>Summary</h3><p>Fastmail&#x27;s Neil Jenkins walks through the different layers of email encryption and what each actually protects against. TLS secures your connection to your provider, while server-to-server delivery relies on opportunistic TLS, which MTA-STS and DANE try to harden; Fastmail, like Google and Yahoo, prefers MTA-STS because DNSSEC failures can cause serious outages. Encryption at rest protects against physical theft but not court orders or full server compromise. Zero-access encryption (Proton, Tuta) limits insider access but leaves metadata exposed and costs search, standard clients, and password recovery, and true end-to-end encryption via S/MIME or PGP remains impractical for most people. The post&#x27;s advice: for truly sensitive communication use Signal, and for everyday email, transport plus at-rest encryption is a sensible balance.</p><p><em>Scott&#x27;s Reads: an AI-narrated summary of the source above. Listen to the episode, then read the original.</em></p>]]></content:encoded>
+    <itunes:summary>Fastmail&#x27;s Neil Jenkins walks through the different layers of email encryption and what each actually protects against. TLS secures your connection to your provider, while server-to-server delivery relies on opportunistic TLS, which MTA-STS and DANE try to harden; Fastmail, like Google and Yahoo, prefers MTA-STS because DNSSEC failures can cause serious outages. Encryption at rest protects against physical theft but not court orders or full server compromise. Zero-access encryption (Proton, Tuta) limits insider access but leaves metadata exposed and costs search, standard clients, and password recovery, and true end-to-end encryption via S/MIME or PGP remains impractical for most people. The post&#x27;s advice: for truly sensitive communication use Signal, and for everyday email, transport plus at-rest encryption is a sensible balance.</itunes:summary>
+    <enclosure url="https://scottmills.github.io/localllama-daily/reads/episodes/20261101-understanding-email-encryption.mp3" length="4307564" type="audio/mpeg"/>
+    <guid isPermaLink="false">scotts-reads-20261101-understanding-email-encryption</guid>
+    <pubDate>Sun, 01 Nov 2026 09:18:43 -0600</pubDate>
+    <itunes:duration>00:08:58</itunes:duration>
+    <itunes:image href="https://scottmills.github.io/localllama-daily/reads/episodes/20261101-understanding-email-encryption.jpg"/>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Building Effective Agents — Anthropic</title>
     <link>https://www.anthropic.com/research/building-effective-agents</link>
