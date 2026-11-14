@@ -6,7 +6,7 @@
   <atom:link href="https://scottmills.github.io/localllama-daily/feed.xml" rel="self" type="application/rss+xml"/>
   <description>A short daily audio recap of the top posts and discussions on r/LocalLLaMA: new open-weight models, local inference tools, and hardware.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 13 Nov 2026 06:45:43 -0600</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 06:37:04 -0600</lastBuildDate>
   <itunes:author>Scott Mills</itunes:author>
   <itunes:owner><itunes:name>Scott Mills</itunes:name></itunes:owner>
   <itunes:image href="https://scottmills.github.io/localllama-daily/cover.jpg"/>
@@ -14,6 +14,17 @@
   <itunes:category text="Technology"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Local Llama Daily — Nov 14, 2026: Nace&#x27;s AI-made quants, a 9B model on a PS4, llama.cpp 1.0 and Llama desktop apps (update), DeepSeek V4.1 Flash on the SWE-sweep bug hunt, RAM supply and Nvidia&#x27;s financing (update), Meta&#x27;s e-means, quick hits</title>
+    <description><![CDATA[<p>Daily recap of r/LocalLLaMA: Nace&#x27;s AI-made quants, a 9B model on a PS4, llama.cpp 1.0 and Llama desktop apps (update), DeepSeek V4.1 Flash on the SWE-sweep bug hunt, RAM supply and Nvidia&#x27;s financing (update), Meta&#x27;s e-means, quick hits.</p><ul></ul>]]></description>
+    <content:encoded><![CDATA[<p>Daily recap of r/LocalLLaMA: Nace&#x27;s AI-made quants, a 9B model on a PS4, llama.cpp 1.0 and Llama desktop apps (update), DeepSeek V4.1 Flash on the SWE-sweep bug hunt, RAM supply and Nvidia&#x27;s financing (update), Meta&#x27;s e-means, quick hits.</p><ul></ul>]]></content:encoded>
+    <enclosure url="https://scottmills.github.io/localllama-daily/episodes/2026-11-14.mp3" length="2979116" type="audio/mpeg"/>
+    <guid isPermaLink="false">localllama-daily-2026-11-14</guid>
+    <pubDate>Sat, 14 Nov 2026 07:00:00 -0600</pubDate>
+    <itunes:duration>00:06:12</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Local Llama Daily — Nov 13, 2026: Jensen Huang&#x27;s exit and what it means for local AI, Ernie 5.5 Flash Preview (update), Inkling 2 Small weights out (update), used GPU prices sliding, CMP 170HX fully unlocked (update), llama.cpp hits 1.0, quick hits</title>
     <description><![CDATA[<p>Daily recap of r/LocalLLaMA: Jensen Huang&#x27;s exit and what it means for local AI, Ernie 5.5 Flash Preview (update), Inkling 2 Small weights out (update), used GPU prices sliding, CMP 170HX fully unlocked (update), llama.cpp hits 1.0, quick hits.</p><ul><li>Nvidia&#x27;s Jensen Huang Resigns as CEO, Colette Kress Named Interim — <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xudeev/">https://www.reddit.com/r/LocalLLaMA/comments/1xudeev/</a></li><li>So this will be true in couple of years? — <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xukt9t/">https://www.reddit.com/r/LocalLLaMA/comments/1xukt9t/</a></li><li>&#x27;Bring Back THE Boss&#x27;: Nvidia Employees Petition for Jensen Huang&#x27;s Return — <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xuxxmb/">https://www.reddit.com/r/LocalLLaMA/comments/1xuxxmb/</a></li><li>Hugging Face CEO vows to keep fighting for open source AI — <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xut4o7/">https://www.reddit.com/r/LocalLLaMA/comments/1xut4o7/</a></li><li>Alleged GeForce RTX 5090 with 96GB listed for sale in China — <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xucffq/">https://www.reddit.com/r/LocalLLaMA/comments/1xucffq/</a></li></ul>]]></description>
