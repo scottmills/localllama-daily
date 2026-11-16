@@ -6,7 +6,7 @@
   <atom:link href="https://scottmills.github.io/localllama-daily/feed.xml" rel="self" type="application/rss+xml"/>
   <description>A short daily audio recap of the top posts and discussions on r/LocalLLaMA: new open-weight models, local inference tools, and hardware.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 15 Nov 2026 06:41:07 -0600</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 06:33:07 -0600</lastBuildDate>
   <itunes:author>Scott Mills</itunes:author>
   <itunes:owner><itunes:name>Scott Mills</itunes:name></itunes:owner>
   <itunes:image href="https://scottmills.github.io/localllama-daily/cover.jpg"/>
@@ -14,6 +14,17 @@
   <itunes:category text="Technology"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Local Llama Daily — Nov 16, 2026: The CMP 170HX voltage glitch pays off with 80GB (update), abliteration as a tiny LoRA, Strata&#x27;s speed defaults vs. quality, Basalt 0.4.0 (update), inside-llm for watching quants diverge, a rumored small GLM family, quick hits</title>
+    <description><![CDATA[<p>Daily recap of r/LocalLLaMA: The CMP 170HX voltage glitch pays off with 80GB (update), abliteration as a tiny LoRA, Strata&#x27;s speed defaults vs. quality, Basalt 0.4.0 (update), inside-llm for watching quants diverge, a rumored small GLM family, quick hits.</p><ul><li>Related: Llama.cpp performance improvement over time (Gemma4 models) — <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xx607x/">https://www.reddit.com/r/LocalLLaMA/comments/1xx607x/</a></li></ul>]]></description>
+    <content:encoded><![CDATA[<p>Daily recap of r/LocalLLaMA: The CMP 170HX voltage glitch pays off with 80GB (update), abliteration as a tiny LoRA, Strata&#x27;s speed defaults vs. quality, Basalt 0.4.0 (update), inside-llm for watching quants diverge, a rumored small GLM family, quick hits.</p><ul><li>Related: Llama.cpp performance improvement over time (Gemma4 models) — <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xx607x/">https://www.reddit.com/r/LocalLLaMA/comments/1xx607x/</a></li></ul>]]></content:encoded>
+    <enclosure url="https://scottmills.github.io/localllama-daily/episodes/2026-11-16.mp3" length="2851436" type="audio/mpeg"/>
+    <guid isPermaLink="false">localllama-daily-2026-11-16</guid>
+    <pubDate>Mon, 16 Nov 2026 07:00:00 -0600</pubDate>
+    <itunes:duration>00:05:56</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Local Llama Daily — Nov 15, 2026: Are frontier models actually smarter?, &quot;local AI is the future&quot; and the pushback, EUROPA&#x27;s trillion-parameter EU model, an 8x3090 winter heater, tandem.cpp runs DeepSeek V4.1 on a 64GB PC (update), tiny-voca 4.5M-parameter TTS, quick hits</title>
     <description><![CDATA[<p>Daily recap of r/LocalLLaMA: Are frontier models actually smarter?, &quot;local AI is the future&quot; and the pushback, EUROPA&#x27;s trillion-parameter EU model, an 8x3090 winter heater, tandem.cpp runs DeepSeek V4.1 on a 64GB PC (update), tiny-voca 4.5M-parameter TTS, quick hits.</p><ul></ul>]]></description>
