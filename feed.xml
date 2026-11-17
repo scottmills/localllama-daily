@@ -6,7 +6,7 @@
   <atom:link href="https://scottmills.github.io/localllama-daily/feed.xml" rel="self" type="application/rss+xml"/>
   <description>A short daily audio recap of the top posts and discussions on r/LocalLLaMA: new open-weight models, local inference tools, and hardware.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 16 Nov 2026 06:33:07 -0600</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 06:28:03 -0600</lastBuildDate>
   <itunes:author>Scott Mills</itunes:author>
   <itunes:owner><itunes:name>Scott Mills</itunes:name></itunes:owner>
   <itunes:image href="https://scottmills.github.io/localllama-daily/cover.jpg"/>
@@ -14,6 +14,17 @@
   <itunes:category text="Technology"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Local Llama Daily — Nov 17, 2026: The Qwen 4 wait (AA index, Qwopium and doomposting), Maxwell-V1-Flash, open weights hit 30% of enterprise usage, miHoYo&#x27;s generalist game agent, the Nov 2026 audio models megathread, the Strata backlash (update), quick hits</title>
+    <description><![CDATA[<p>Daily recap of r/LocalLLaMA: The Qwen 4 wait (AA index, Qwopium and doomposting), Maxwell-V1-Flash, open weights hit 30% of enterprise usage, miHoYo&#x27;s generalist game agent, the Nov 2026 audio models megathread, the Strata backlash (update), quick hits.</p><ul></ul>]]></description>
+    <content:encoded><![CDATA[<p>Daily recap of r/LocalLLaMA: The Qwen 4 wait (AA index, Qwopium and doomposting), Maxwell-V1-Flash, open weights hit 30% of enterprise usage, miHoYo&#x27;s generalist game agent, the Nov 2026 audio models megathread, the Strata backlash (update), quick hits.</p><ul></ul>]]></content:encoded>
+    <enclosure url="https://scottmills.github.io/localllama-daily/episodes/2026-11-17.mp3" length="3016748" type="audio/mpeg"/>
+    <guid isPermaLink="false">localllama-daily-2026-11-17</guid>
+    <pubDate>Tue, 17 Nov 2026 07:00:00 -0600</pubDate>
+    <itunes:duration>00:06:17</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Local Llama Daily — Nov 16, 2026: The CMP 170HX voltage glitch pays off with 80GB (update), abliteration as a tiny LoRA, Strata&#x27;s speed defaults vs. quality, Basalt 0.4.0 (update), inside-llm for watching quants diverge, a rumored small GLM family, quick hits</title>
     <description><![CDATA[<p>Daily recap of r/LocalLLaMA: The CMP 170HX voltage glitch pays off with 80GB (update), abliteration as a tiny LoRA, Strata&#x27;s speed defaults vs. quality, Basalt 0.4.0 (update), inside-llm for watching quants diverge, a rumored small GLM family, quick hits.</p><ul><li>Related: Llama.cpp performance improvement over time (Gemma4 models) — <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xx607x/">https://www.reddit.com/r/LocalLLaMA/comments/1xx607x/</a></li></ul>]]></description>
