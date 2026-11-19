@@ -6,7 +6,7 @@
   <atom:link href="https://scottmills.github.io/localllama-daily/feed.xml" rel="self" type="application/rss+xml"/>
   <description>A short daily audio recap of the top posts and discussions on r/LocalLLaMA: new open-weight models, local inference tools, and hardware.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 18 Nov 2026 06:42:29 -0600</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 06:30:48 -0600</lastBuildDate>
   <itunes:author>Scott Mills</itunes:author>
   <itunes:owner><itunes:name>Scott Mills</itunes:name></itunes:owner>
   <itunes:image href="https://scottmills.github.io/localllama-daily/cover.jpg"/>
@@ -14,6 +14,17 @@
   <itunes:category text="Technology"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Local Llama Daily — Nov 19, 2026: Inworld&#x27;s open voice isolator, memory prices (NAND down, Nvidia&#x27;s RAM spree), an Nvidia driver hammering SSDs, open weights in the political spotlight, Koharu manga translator, quick hits</title>
+    <description><![CDATA[<p>Daily recap of r/LocalLLaMA: Inworld&#x27;s open voice isolator, memory prices (NAND down, Nvidia&#x27;s RAM spree), an Nvidia driver hammering SSDs, open weights in the political spotlight, Koharu manga translator, quick hits.</p><ul><li>Related: Xi called to support open source — <a href="https://www.reddit.com/r/LocalLLaMA/comments/1y065go/">https://www.reddit.com/r/LocalLLaMA/comments/1y065go/</a></li><li>Related: [Reuters] US weighs forcing firms to disclose Chinese AI use — <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xzhirk/">https://www.reddit.com/r/LocalLLaMA/comments/1xzhirk/</a></li></ul>]]></description>
+    <content:encoded><![CDATA[<p>Daily recap of r/LocalLLaMA: Inworld&#x27;s open voice isolator, memory prices (NAND down, Nvidia&#x27;s RAM spree), an Nvidia driver hammering SSDs, open weights in the political spotlight, Koharu manga translator, quick hits.</p><ul><li>Related: Xi called to support open source — <a href="https://www.reddit.com/r/LocalLLaMA/comments/1y065go/">https://www.reddit.com/r/LocalLLaMA/comments/1y065go/</a></li><li>Related: [Reuters] US weighs forcing firms to disclose Chinese AI use — <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xzhirk/">https://www.reddit.com/r/LocalLLaMA/comments/1xzhirk/</a></li></ul>]]></content:encoded>
+    <enclosure url="https://scottmills.github.io/localllama-daily/episodes/2026-11-19.mp3" length="3017132" type="audio/mpeg"/>
+    <guid isPermaLink="false">localllama-daily-2026-11-19</guid>
+    <pubDate>Thu, 19 Nov 2026 07:00:00 -0600</pubDate>
+    <itunes:duration>00:06:17</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Local Llama Daily — Nov 18, 2026: SenseNova Loop 9B&#x27;s full release, Tencent&#x27;s Hy4 Flash weights (update), Jensen Huang&#x27;s bid to return plus Nvidia&#x27;s open-source promise and a DGX Spark four-pack (update), Blue TTS v3, Hugging Face harness adapters for Pi, the sub&#x27;s 2026 slop list, quick hits</title>
     <description><![CDATA[<p>Daily recap of r/LocalLLaMA: SenseNova Loop 9B&#x27;s full release, Tencent&#x27;s Hy4 Flash weights (update), Jensen Huang&#x27;s bid to return plus Nvidia&#x27;s open-source promise and a DGX Spark four-pack (update), Blue TTS v3, Hugging Face harness adapters for Pi, the sub&#x27;s 2026 slop list, quick hits.</p><ul><li>Related: SenseNova Loop 9B is out of preview — <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xyqqqy/">https://www.reddit.com/r/LocalLLaMA/comments/1xyqqqy/</a></li><li>Related: Running SenseNova-Loop-9B nvfp4 at 300-500 tok/s on a laptop 5090 — <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xz3f4w/">https://www.reddit.com/r/LocalLLaMA/comments/1xz3f4w/</a></li><li>Related: SenseNova Loop 9B (Resources) — <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xylcw4/">https://www.reddit.com/r/LocalLLaMA/comments/1xylcw4/</a></li><li>Related: AngelSlim/Hy4-flash-GGUF — <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xz72jr/">https://www.reddit.com/r/LocalLLaMA/comments/1xz72jr/</a></li><li>Related: harness-hub/Qwen3.8-27B-pi-adapted — <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xyuz45/">https://www.reddit.com/r/LocalLLaMA/comments/1xyuz45/</a></li><li>Related: voi-slop-detect-380M — <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xymsas/">https://www.reddit.com/r/LocalLLaMA/comments/1xymsas/</a></li></ul>]]></description>
