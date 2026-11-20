@@ -6,7 +6,7 @@
   <atom:link href="https://scottmills.github.io/localllama-daily/feed.xml" rel="self" type="application/rss+xml"/>
   <description>A short daily audio recap of the top posts and discussions on r/LocalLLaMA: new open-weight models, local inference tools, and hardware.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 19 Nov 2026 06:30:48 -0600</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 06:57:41 -0600</lastBuildDate>
   <itunes:author>Scott Mills</itunes:author>
   <itunes:owner><itunes:name>Scott Mills</itunes:name></itunes:owner>
   <itunes:image href="https://scottmills.github.io/localllama-daily/cover.jpg"/>
@@ -15,10 +15,21 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>Local Llama Daily — Nov 20, 2026: Kitten TTS 2&#x27;s tiny voices, Tencent&#x27;s flagship Hy4 plus Hy4 Flash impressions (update), AMD&#x27;s NPU in Unsloth Desktop, Palo Alto&#x27;s CEO on outages and open weights, a 4B Three.js coder, Ideogram 4.6, quick hits</title>
+    <description><![CDATA[<p>Daily recap of r/LocalLLaMA: Kitten TTS 2&#x27;s tiny voices, Tencent&#x27;s flagship Hy4 plus Hy4 Flash impressions (update), AMD&#x27;s NPU in Unsloth Desktop, Palo Alto&#x27;s CEO on outages and open weights, a 4B Three.js coder, Ideogram 4.6, quick hits.</p><ul><li>Related: Tencent Hy4-flash (85 GB GGUF) on an RTX 3060 12 GB + 32 GB RAM — <a href="https://www.reddit.com/r/LocalLLaMA/comments/1y0b8io/">https://www.reddit.com/r/LocalLLaMA/comments/1y0b8io/</a></li></ul>]]></description>
+    <content:encoded><![CDATA[<p>Daily recap of r/LocalLLaMA: Kitten TTS 2&#x27;s tiny voices, Tencent&#x27;s flagship Hy4 plus Hy4 Flash impressions (update), AMD&#x27;s NPU in Unsloth Desktop, Palo Alto&#x27;s CEO on outages and open weights, a 4B Three.js coder, Ideogram 4.6, quick hits.</p><ul><li>Related: Tencent Hy4-flash (85 GB GGUF) on an RTX 3060 12 GB + 32 GB RAM — <a href="https://www.reddit.com/r/LocalLLaMA/comments/1y0b8io/">https://www.reddit.com/r/LocalLLaMA/comments/1y0b8io/</a></li></ul>]]></content:encoded>
+    <enclosure url="https://scottmills.github.io/localllama-daily/episodes/2026-11-20.mp3" length="3026540" type="audio/mpeg"/>
+    <guid isPermaLink="false">localllama-daily-2026-11-20</guid>
+    <pubDate>Fri, 20 Nov 2026 07:00:00 -0600</pubDate>
+    <itunes:duration>00:06:18</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>Local Llama Daily — Nov 19, 2026: Inworld&#x27;s open voice isolator, memory prices (NAND down, Nvidia&#x27;s RAM spree), an Nvidia driver hammering SSDs, open weights in the political spotlight, Koharu manga translator, quick hits</title>
     <description><![CDATA[<p>Daily recap of r/LocalLLaMA: Inworld&#x27;s open voice isolator, memory prices (NAND down, Nvidia&#x27;s RAM spree), an Nvidia driver hammering SSDs, open weights in the political spotlight, Koharu manga translator, quick hits.</p><ul><li>Related: Xi called to support open source — <a href="https://www.reddit.com/r/LocalLLaMA/comments/1y065go/">https://www.reddit.com/r/LocalLLaMA/comments/1y065go/</a></li><li>Related: [Reuters] US weighs forcing firms to disclose Chinese AI use — <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xzhirk/">https://www.reddit.com/r/LocalLLaMA/comments/1xzhirk/</a></li></ul>]]></description>
     <content:encoded><![CDATA[<p>Daily recap of r/LocalLLaMA: Inworld&#x27;s open voice isolator, memory prices (NAND down, Nvidia&#x27;s RAM spree), an Nvidia driver hammering SSDs, open weights in the political spotlight, Koharu manga translator, quick hits.</p><ul><li>Related: Xi called to support open source — <a href="https://www.reddit.com/r/LocalLLaMA/comments/1y065go/">https://www.reddit.com/r/LocalLLaMA/comments/1y065go/</a></li><li>Related: [Reuters] US weighs forcing firms to disclose Chinese AI use — <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xzhirk/">https://www.reddit.com/r/LocalLLaMA/comments/1xzhirk/</a></li></ul>]]></content:encoded>
-    <enclosure url="https://scottmills.github.io/localllama-daily/episodes/2026-11-19.mp3" length="3017132" type="audio/mpeg"/>
+    <enclosure url="https://scottmills.github.io/localllama-daily/episodes/2026-11-19.mp3" length="3016556" type="audio/mpeg"/>
     <guid isPermaLink="false">localllama-daily-2026-11-19</guid>
     <pubDate>Thu, 19 Nov 2026 07:00:00 -0600</pubDate>
     <itunes:duration>00:06:17</itunes:duration>
