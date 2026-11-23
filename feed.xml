@@ -6,7 +6,7 @@
   <atom:link href="https://scottmills.github.io/localllama-daily/feed.xml" rel="self" type="application/rss+xml"/>
   <description>A short daily audio recap of the top posts and discussions on r/LocalLLaMA: new open-weight models, local inference tools, and hardware.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 22 Nov 2026 06:27:36 -0600</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 06:23:52 -0600</lastBuildDate>
   <itunes:author>Scott Mills</itunes:author>
   <itunes:owner><itunes:name>Scott Mills</itunes:name></itunes:owner>
   <itunes:image href="https://scottmills.github.io/localllama-daily/cover.jpg"/>
@@ -14,6 +14,17 @@
   <itunes:category text="Technology"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Local Llama Daily — Nov 23, 2026: GLM-5.4&#x27;s loop transformer (weights after &quot;safety hardening&quot;), Inkling 2 Mini second opinions plus Unbound v2 (update), speed-post fatigue and engine sprawl, Apple&#x27;s Depth Pro 2, a model that edits its own weights, the Atomrig GPU scam warning, quick hits</title>
+    <description><![CDATA[<p>Daily recap of r/LocalLLaMA: GLM-5.4&#x27;s loop transformer (weights after &quot;safety hardening&quot;), Inkling 2 Mini second opinions plus Unbound v2 (update), speed-post fatigue and engine sprawl, Apple&#x27;s Depth Pro 2, a model that edits its own weights, the Atomrig GPU scam warning, quick hits.</p><ul></ul>]]></description>
+    <content:encoded><![CDATA[<p>Daily recap of r/LocalLLaMA: GLM-5.4&#x27;s loop transformer (weights after &quot;safety hardening&quot;), Inkling 2 Mini second opinions plus Unbound v2 (update), speed-post fatigue and engine sprawl, Apple&#x27;s Depth Pro 2, a model that edits its own weights, the Atomrig GPU scam warning, quick hits.</p><ul></ul>]]></content:encoded>
+    <enclosure url="https://scottmills.github.io/localllama-daily/episodes/2026-11-23.mp3" length="2959724" type="audio/mpeg"/>
+    <guid isPermaLink="false">localllama-daily-2026-11-23</guid>
+    <pubDate>Mon, 23 Nov 2026 07:00:00 -0600</pubDate>
+    <itunes:duration>00:06:10</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Local Llama Daily — Nov 22, 2026: Inkling 2 Mini&#x27;s first weekend (speed race, the style debate and a critical review, conv-aware abliteration) (update), MiniMax prompts on OpenRouter may have been read, two local agents reverse-engineer a Motorola 68000 board, a KV cache surprise</title>
     <description><![CDATA[<p>Daily recap of r/LocalLLaMA: Inkling 2 Mini&#x27;s first weekend (speed race, the style debate and a critical review, conv-aware abliteration) (update), MiniMax prompts on OpenRouter may have been read, two local agents reverse-engineer a Motorola 68000 board, a KV cache surprise.</p><ul><li>Related: Inkling 2 Mini (26B) on an RTX 3060 12 GB: 31 tok/s — <a href="https://www.reddit.com/r/LocalLLaMA/comments/1y29vsu/">https://www.reddit.com/r/LocalLLaMA/comments/1y29vsu/</a></li><li>Related: Inkling 2 Mini on a 12GB smartphone at 3 tok/s — <a href="https://www.reddit.com/r/LocalLLaMA/comments/1y212l8/inkling_2_mini_on_a_12gb_smartphone_getting_3/">https://www.reddit.com/r/LocalLLaMA/comments/1y212l8/inkling_2_mini_on_a_12gb_smartphone_getting_3/</a></li></ul>]]></description>
