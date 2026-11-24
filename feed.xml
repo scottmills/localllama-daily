@@ -6,7 +6,7 @@
   <atom:link href="https://scottmills.github.io/localllama-daily/feed.xml" rel="self" type="application/rss+xml"/>
   <description>A short daily audio recap of the top posts and discussions on r/LocalLLaMA: new open-weight models, local inference tools, and hardware.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 23 Nov 2026 06:23:52 -0600</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 06:18:57 -0600</lastBuildDate>
   <itunes:author>Scott Mills</itunes:author>
   <itunes:owner><itunes:name>Scott Mills</itunes:name></itunes:owner>
   <itunes:image href="https://scottmills.github.io/localllama-daily/cover.jpg"/>
@@ -14,6 +14,17 @@
   <itunes:category text="Technology"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Local Llama Daily — Nov 24, 2026: GLM 5.4 great at code, bad at prose (update), Ling 3.2 Air, Aleph Alpha&#x27;s Kolibri 1.1, NariQ&#x27;s 10 GB Qwen 3.8 27B, Songe fine-tunes while you sleep, Yann LeCun vs. Dario on open weights, quick hits</title>
+    <description><![CDATA[<p>Daily recap of r/LocalLLaMA: GLM 5.4 great at code, bad at prose (update), Ling 3.2 Air, Aleph Alpha&#x27;s Kolibri 1.1, NariQ&#x27;s 10 GB Qwen 3.8 27B, Songe fine-tunes while you sleep, Yann LeCun vs. Dario on open weights, quick hits.</p><ul></ul>]]></description>
+    <content:encoded><![CDATA[<p>Daily recap of r/LocalLLaMA: GLM 5.4 great at code, bad at prose (update), Ling 3.2 Air, Aleph Alpha&#x27;s Kolibri 1.1, NariQ&#x27;s 10 GB Qwen 3.8 27B, Songe fine-tunes while you sleep, Yann LeCun vs. Dario on open weights, quick hits.</p><ul></ul>]]></content:encoded>
+    <enclosure url="https://scottmills.github.io/localllama-daily/episodes/2026-11-24.mp3" length="2871212" type="audio/mpeg"/>
+    <guid isPermaLink="false">localllama-daily-2026-11-24</guid>
+    <pubDate>Tue, 24 Nov 2026 07:00:00 -0600</pubDate>
+    <itunes:duration>00:05:59</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Local Llama Daily — Nov 23, 2026: GLM-5.4&#x27;s loop transformer (weights after &quot;safety hardening&quot;), Inkling 2 Mini second opinions plus Unbound v2 (update), speed-post fatigue and engine sprawl, Apple&#x27;s Depth Pro 2, a model that edits its own weights, the Atomrig GPU scam warning, quick hits</title>
     <description><![CDATA[<p>Daily recap of r/LocalLLaMA: GLM-5.4&#x27;s loop transformer (weights after &quot;safety hardening&quot;), Inkling 2 Mini second opinions plus Unbound v2 (update), speed-post fatigue and engine sprawl, Apple&#x27;s Depth Pro 2, a model that edits its own weights, the Atomrig GPU scam warning, quick hits.</p><ul></ul>]]></description>
