@@ -6,7 +6,7 @@
   <atom:link href="https://scottmills.github.io/localllama-daily/feed.xml" rel="self" type="application/rss+xml"/>
   <description>A short daily audio recap of the top posts and discussions on r/LocalLLaMA: new open-weight models, local inference tools, and hardware.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 24 Nov 2026 06:18:57 -0600</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 06:27:41 -0600</lastBuildDate>
   <itunes:author>Scott Mills</itunes:author>
   <itunes:owner><itunes:name>Scott Mills</itunes:name></itunes:owner>
   <itunes:image href="https://scottmills.github.io/localllama-daily/cover.jpg"/>
@@ -14,6 +14,17 @@
   <itunes:category text="Technology"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Local Llama Daily — Nov 25, 2026: How 1M tokens of memory shrank from 130 TB to 890 MB, Ternary Bonsai 2.5 27B, Nvidia&#x27;s Nemotron-Labs-Image, are open models behind Haiku? (update), upcoming Solar Mini 4.5 and MiniCPM5, Inkling 2 Mini vs Qwen 27B plus Apple&#x27;s LoopCD (update), quick hits</title>
+    <description><![CDATA[<p>Daily recap of r/LocalLLaMA: How 1M tokens of memory shrank from 130 TB to 890 MB, Ternary Bonsai 2.5 27B, Nvidia&#x27;s Nemotron-Labs-Image, are open models behind Haiku? (update), upcoming Solar Mini 4.5 and MiniCPM5, Inkling 2 Mini vs Qwen 27B plus Apple&#x27;s LoopCD (update), quick hits.</p><ul><li>Related: Ternary Bonsai 2.5 27B Uncensored — <a href="https://www.reddit.com/r/LocalLLaMA/comments/1y4pd62/">https://www.reddit.com/r/LocalLLaMA/comments/1y4pd62/</a></li><li>Related: Inkling Mini&#x27;s bench scores improved by as much as 10% for FREE by Apple&#x27;s LoopCD paper — <a href="https://www.reddit.com/r/LocalLLaMA/comments/1y4rhws/">https://www.reddit.com/r/LocalLLaMA/comments/1y4rhws/</a></li></ul>]]></description>
+    <content:encoded><![CDATA[<p>Daily recap of r/LocalLLaMA: How 1M tokens of memory shrank from 130 TB to 890 MB, Ternary Bonsai 2.5 27B, Nvidia&#x27;s Nemotron-Labs-Image, are open models behind Haiku? (update), upcoming Solar Mini 4.5 and MiniCPM5, Inkling 2 Mini vs Qwen 27B plus Apple&#x27;s LoopCD (update), quick hits.</p><ul><li>Related: Ternary Bonsai 2.5 27B Uncensored — <a href="https://www.reddit.com/r/LocalLLaMA/comments/1y4pd62/">https://www.reddit.com/r/LocalLLaMA/comments/1y4pd62/</a></li><li>Related: Inkling Mini&#x27;s bench scores improved by as much as 10% for FREE by Apple&#x27;s LoopCD paper — <a href="https://www.reddit.com/r/LocalLLaMA/comments/1y4rhws/">https://www.reddit.com/r/LocalLLaMA/comments/1y4rhws/</a></li></ul>]]></content:encoded>
+    <enclosure url="https://scottmills.github.io/localllama-daily/episodes/2026-11-25.mp3" length="3100844" type="audio/mpeg"/>
+    <guid isPermaLink="false">localllama-daily-2026-11-25</guid>
+    <pubDate>Wed, 25 Nov 2026 07:00:00 -0600</pubDate>
+    <itunes:duration>00:06:28</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Local Llama Daily — Nov 24, 2026: GLM 5.4 great at code, bad at prose (update), Ling 3.2 Air, Aleph Alpha&#x27;s Kolibri 1.1, NariQ&#x27;s 10 GB Qwen 3.8 27B, Songe fine-tunes while you sleep, Yann LeCun vs. Dario on open weights, quick hits</title>
     <description><![CDATA[<p>Daily recap of r/LocalLLaMA: GLM 5.4 great at code, bad at prose (update), Ling 3.2 Air, Aleph Alpha&#x27;s Kolibri 1.1, NariQ&#x27;s 10 GB Qwen 3.8 27B, Songe fine-tunes while you sleep, Yann LeCun vs. Dario on open weights, quick hits.</p><ul></ul>]]></description>
